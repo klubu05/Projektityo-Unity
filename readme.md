@@ -1,16 +1,15 @@
-14.4 Dokumentointi
+# Unity Peliprojekti
+
+## - Jäsenet 
+Sally<br>Joona<br>Mahti<br>Harry<br>Alex
 
 
-Keksittiin projektin aihealue ja idea. [Unity Tasohyppelypeli]
-Projektin tallennussijainniksi päätettiin github.
-Luotiin projektille alustava suunnitelma.
-Tehtiin exceliin gantt kaavio.
+### 14.4 Dokumentointi
+Keksittiin projektin aihealue ja idea. [Unity Tasohyppelypeli]<br>
+Projektin tallennussijainniksi päätettiin github.<br>
+Luotiin projektille alustava suunnitelma.<br>
+Tehtiin exceliin aikajana kaavio.<br>
 
+### 21.4 Dokumentointi
 
-21.4 Dokumentointi
-
-28.4 Dokumentointi
-
-5.5 Dokumentointi
-
-12.5 Dokumentointi
+---
