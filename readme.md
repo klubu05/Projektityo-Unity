@@ -36,4 +36,4 @@ Alettiin katsoa videoita minkä avulla voidaan oppia unityn käyttöä.
 Hahmojen teko sekä alueen tekeminen aloitettiin pikku hiljaa.
 Githubissa alettiin käyttää trelloa jotta jokainen tietää mitä tehdä ja missä vaiheessa se on.
 
-
+### 28.4 Dokumentointi
