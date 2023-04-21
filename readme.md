@@ -25,7 +25,7 @@ pääsevät pakoon ja suuntaavat maatilalle päin.
  
 
 ### 14.4 Dokumentointi
-Keksittiin projektin aihealue ja idea. [Unity Tasohyppelypeli]<br>
+Keksittiin projektin aihealue ja idea. <br>
 Projektin tallennussijainniksi päätettiin github.<br>
 Luotiin projektille alustava suunnitelma.<br>
 Tehtiin exceliin aikajana kaavio.<br>
