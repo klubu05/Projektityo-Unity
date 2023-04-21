@@ -1,6 +1,6 @@
 # Unity Peliprojekti
 
-## - Jäsenet 
+##  Jäsenet 
 Sally<br>Joona<br>Mahti<br>Harry<br>Alex
 
 
@@ -12,4 +12,4 @@ Tehtiin exceliin aikajana kaavio.<br>
 
 ### 21.4 Dokumentointi
 
----
+
