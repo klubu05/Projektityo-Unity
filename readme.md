@@ -31,5 +31,9 @@ Luotiin projektille alustava suunnitelma.<br>
 Tehtiin exceliin aikajana kaavio.<br>
 
 ### 21.4 Dokumentointi
+Porukassa alettiin miettimään mitä tehdään jotta homma pääsisi käyntiin.
+Alettiin katsoa videoita minkä avulla voidaan oppia unityn käyttöä.
+Hahmojen teko sekä alueen tekeminen aloitettiin pikku hiljaa.
+Githubissa alettiin käyttää trelloa jotta jokainen tietää mitä tehdä ja missä vaiheessa se on.
 
 
