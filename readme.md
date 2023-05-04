@@ -37,3 +37,6 @@ Hahmojen teko sekä alueen tekeminen aloitettiin pikku hiljaa.
 Githubissa alettiin käyttää trelloa jotta jokainen tietää mitä tehdä ja missä vaiheessa se on.
 
 ### 28.4 Dokumentointi
+Jokainen on itsenäisesti katsonut videoita ja piirrellyt hahmoja peliä
+varten jotta voimme nähdä että tuleeko kaikki hahmot ja taso missä
+hahmot ovat olemaan saman kokoisia jotta ne sopisivat keskenään.
