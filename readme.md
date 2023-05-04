@@ -41,4 +41,4 @@ Jokainen on itsenäisesti katsonut videoita ja piirrellyt hahmoja peliä
 varten jotta voimme nähdä että tuleeko kaikki hahmot ja taso missä
 hahmot ovat olemaan saman kokoisia jotta ne sopisivat keskenään.
 Myös Git hubin "Trelloa" on tullut käytettyä jotta jokainen jäsen näkee
-että missä mennään kukin.
+että missä mennään kukin. 👍🏿
