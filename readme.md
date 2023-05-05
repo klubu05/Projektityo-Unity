@@ -43,6 +43,9 @@ hahmot ovat olemaan saman kokoisia jotta ne sopisivat keskenään.
 Myös Git hubin "Trelloa" on tullut käytettyä jotta jokainen jäsen näkee
 että missä mennään kukin. 👍🏿
 
+### 5.5 Dokumentointi
+
+
 ## Aikajana
 
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
