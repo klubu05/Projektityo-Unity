@@ -51,7 +51,8 @@ Unityssä aloimme työstämään peliä pikku hiljaa sekä tutoriaaleja tuli
 katsottua joista saatin selkeitä ohjeita että miten hahmoja sekä että tasoja voi lisätä
 unityyn. Myös unityn omaa asset storea tuli käytettyä mistä voi löytää ilmaisia eri alueita
 sekä erinlaisia hyödyllisiä tuotteita kuten hahmoja. Koodaus tutoriaaleja tuli myös
-katsottua joissa oli ohjeita jotta saataisiin hahmot liikkumaan.
+katsottua joissa oli ohjeita jotta saataisiin hahmot liikkumaan. Jotku ryhmän jäsenet
+myös tekivät animaatioita hahmoille.
 
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
 
