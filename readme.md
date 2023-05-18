@@ -45,8 +45,13 @@ että missä mennään kukin. 👍🏿
 
 ### 5.5 Dokumentointi
 
-
-## Aikajana
+### 12.5 Dokumentointi
+Porukassa pidettiin nopea tapaaminen että saataisiin laitettua hahmoja Unityyn.
+Unityssä aloimme työstämään peliä pikku hiljaa sekä tutoriaaleja tuli
+katsottua joista saatin selkeitä ohjeita että miten hahmoja sekä että tasoja voi lisätä
+unityyn. Myös unityn omaa asset storea tuli käytettyä mistä voi löytää ilmaisia eri alueita
+sekä erinlaisia hyödyllisiä tuotteita kuten hahmoja. Koodaus tutoriaaleja tuli myös
+katsottua joissa oli ohjeita jotta saataisiin hahmot liikkumaan.
 
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
 
