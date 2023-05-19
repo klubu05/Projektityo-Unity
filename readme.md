@@ -1,7 +1,7 @@
 # Unity Peliprojekti
 
 ##  Jäsenet 
-Sally<br>Joona<br>Mahti<br>Harry<br>Alex
+Ryhmä 4<br>Sally<br>Joona<br>Mahti<br>Harry<br>Alex
 
 
 ### Suunnitelma
