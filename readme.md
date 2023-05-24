@@ -58,6 +58,11 @@ sekä erinlaisia hyödyllisiä tuotteita kuten hahmoja. Koodaus tutoriaaleja tul
 katsottua joissa oli ohjeita jotta saataisiin hahmot liikkumaan. Jotku ryhmän jäsenet
 myös tekivät animaatioita hahmoille.
 
+### 26.5 Dokumentointi
+
+### 30.5 Dokumentointi
+
+
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
 
 Viikko 16 (21.4.2023): Perjantai *PAKOLLINEN Teams tapaaminen Klo: 08:30 ESITYKSET PROJEKTIN TILASTA
