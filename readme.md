@@ -44,8 +44,12 @@ Myös Git hubin "Trelloa" on tullut käytettyä jotta jokainen jäsen näkee
 että missä mennään kukin. 👍🏿
 
 ### 5.5 Dokumentointi
+Porukassa katsottiin läpi mitä oltiin saatu aikaiseksi puhelussa
+ja juteltiin että kuka tulisi koodia tekemään, keskusteltiin myös että
+kuka tulee avaamaan projektin unityyn jotta kaikki hahmot saataisiin samaan
+projektiin.
 
-### 12.5 Dokumentointi
+### 12.5-19.5 Dokumentointi
 Porukassa pidettiin nopea tapaaminen että saataisiin laitettua hahmoja Unityyn.
 Unityssä aloimme työstämään peliä pikku hiljaa sekä tutoriaaleja tuli
 katsottua joista saatin selkeitä ohjeita että miten hahmoja sekä että tasoja voi lisätä
