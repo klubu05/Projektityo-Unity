@@ -59,8 +59,21 @@ katsottua joissa oli ohjeita jotta saataisiin hahmot liikkumaan. Jotku ryhmän j
 myös tekivät animaatioita hahmoille.
 
 ### 26.5 Dokumentointi
+Tällä kertaa projektissa alettiin koodaus puolta eli C# koodausta.
+Se oli aluksi pikkaisen hankalaa mutta kun muisti kommentoida ja kuunnella
+mitä videossa kerrottiin koodista niin sitä alkoi oppimaan pikku hiljaa.
+Myös Unityn kanssa tekeminen alkoi tuntua pikkuisen paremmalta kun alkoi oppia
+että miten erinlaiset toolit toimisivat/auttoivat projektissa.
 
 ### 30.5 Dokumentointi
+Tänään aloitetaan katsomaan koodaus puolesta erinlaisia "hyökkäys" liikkeitä
+hahmolle. Koodaus puolessa myös katsottiin että miten hahmo voi reakoida
+eri tasojen kanssa kuten vaikka aitauksen kanssa, eli kun hahmo osuu aitaukseen
+niin siinä käytetään collide työkalua jonka avulla hahmo reagoi siihen aitaukseen että
+se ei siitä pääse menemään läpi. Myös kun tasoa "piirrettiin" unityssä niin piti siinä
+katsoa tarkasti että tasot ovat oikeilla kohdilla eikä toistensa päällä väärin.
+
+### 2.6 Dokumentointi
 
 
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
