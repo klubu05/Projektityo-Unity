@@ -70,8 +70,8 @@ Tänään aloitetaan katsomaan koodaus puolesta erinlaisia "hyökkäys" liikkeit
 hahmolle. Koodaus puolessa myös katsottiin että miten hahmo voi reakoida
 eri tasojen kanssa kuten vaikka aitauksen kanssa, eli kun hahmo osuu aitaukseen
 niin siinä käytetään collide työkalua jonka avulla hahmo reagoi siihen aitaukseen että
-se ei siitä pääse menemään läpi. Myös kun tasoa "piirrettiin" unityssä niin piti siinä
-katsoa tarkasti että tasot ovat oikeilla kohdilla eikä toistensa päällä väärin.
+se ei siitä pääse menemään läpi. Myös hahmo saatiin liikkumaan ja tekemään erinlaisia
+animaatioita kun hahmo vaikka lopettaa ja aloittaa liikkumisen.
 
 ### 2.6 Dokumentointi
 
