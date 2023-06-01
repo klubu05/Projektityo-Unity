@@ -73,6 +73,8 @@ niin siinä käytetään collide työkalua jonka avulla hahmo reagoi siihen aita
 se ei siitä pääse menemään läpi. Myös hahmo saatiin liikkumaan ja tekemään erinlaisia
 animaatioita kun hahmo vaikka lopettaa ja aloittaa liikkumisen.
 
+### 1.6 Dokumentointi
+
 ### 2.6 Dokumentointi
 
 
