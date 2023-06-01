@@ -74,9 +74,19 @@ se ei siitä pääse menemään läpi. Myös hahmo saatiin liikkumaan ja tekemä
 animaatioita kun hahmo vaikka lopettaa ja aloittaa liikkumisen.
 
 ### 1.6 Dokumentointi
+Tällä kertaa laitettiin peliin vähän vihollisia jotka yrittävät hyökätä
+hahmoa sekä voi itse ottaa osumia. viholliselle tehdään samanlaiset
+jutut kuin päähahmolle pelissä sillä on omat animaatiot sekä hyökkäys animaatiot.
 
 ### 2.6 Dokumentointi
+Tänään aiotaan jatkaa vihollisen kanssa jotta saadaan kaikki koodit toimiimaan
+eli animaatiot ja hyökkäys animaatiot sekä että kuolema animaatio.
+Tämän avulla aiomme katsoa videoita jotka opettaa miten eri koodaukset tehdään
+animaatiota varten.
 
+### 5.6 Dokumentointi
+
+### 6.6 Dokumentointi
 
 Viikko 15 (14.4.2023): Perjantai *PAKOLLINEN koulu tapaaminen. Klo: 08:00
 
