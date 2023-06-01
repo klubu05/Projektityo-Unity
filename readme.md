@@ -82,7 +82,7 @@ jutut kuin päähahmolle pelissä sillä on omat animaatiot sekä hyökkäys ani
 Tänään aiotaan jatkaa vihollisen kanssa jotta saadaan kaikki koodit toimiimaan
 eli animaatiot ja hyökkäys animaatiot sekä että kuolema animaatio.
 Tämän avulla aiomme katsoa videoita jotka opettaa miten eri koodaukset tehdään
-animaatiota varten.
+animaatiota varten. Yritetään nämä viimeiset kerrat saamaan projektin edes prototyypiksi.
 
 ### 5.6 Dokumentointi
 
