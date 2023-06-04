@@ -85,6 +85,7 @@ Tämän avulla aiomme katsoa videoita jotka opettaa miten eri koodaukset tehdä�
 animaatiota varten. Yritetään nämä viimeiset kerrat saamaan projektin edes prototyypiksi.
 
 ### 5.6 Dokumentointi
+Tänään ajomme viimeistellä projektia, jotta vihollisen ja hahmon animaatiot toimivat toisensa kanssa. Ajomme myös tehdä esitystä viimeiselle kerralle.
 
 ### 6.6 Dokumentointi
 
